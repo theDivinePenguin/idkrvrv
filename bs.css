@@ -58,7 +58,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://imgur.com/a/lsd175l);	/* general background image					*/
+	--background:			url(https://media.discordapp.net/attachments/804598033038835717/1323925849413648394/Vxu5i63.png?ex=67764987&is=6774f807&hm=30bc493528cf5a30b5633f6267947df0d85f026053d3c8b446e01fdf7475eb9f&=&format=webp&quality=lossless&width=2340&height=1317);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
